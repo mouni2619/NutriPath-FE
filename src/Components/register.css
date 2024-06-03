@@ -1,0 +1,65 @@
+/* register.css */
+
+.banners {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .registerWrapper {
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: 20px; /* Adjust this value to fine-tune the position */
+  }
+  
+  .registerWrapper h3 {
+    color: green;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .registerWrapper p {
+    text-align: center;
+  }
+  
+  .registerWrapper .link {
+    color: blue;
+  }
+  /* login.css */
+
+.banners {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align the card to the top */
+    height: 100vh;
+  }
+  
+  .loginWrapper {
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    position: relative;
+    top: 20px; /* Adjust this value to fine-tune the position */
+  }
+  
+  .loginWrapper h3 {
+    color: green;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .loginWrapper p {
+    text-align: center;
+  }
+  
+  .loginWrapper .link {
+    color: blue;
+  }
+  

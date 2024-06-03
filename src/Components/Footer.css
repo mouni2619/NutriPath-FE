@@ -1,0 +1,41 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .footer .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .contact-details {
+    flex: 1;
+    text-align: left;
+    padding: 10px;
+  }
+  
+  .contact-details p {
+    margin: 0;
+  }
+  
+  @media (max-width: 576px) {
+    .footer .container {
+      flex-direction: column;
+      text-align: center;
+    }
+    
+    .contact-details {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  

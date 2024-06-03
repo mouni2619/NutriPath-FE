@@ -1,0 +1,12 @@
+.banners{
+    background-image: url("https://www.shutterstock.com/image-vector/page-template-bottom-border-various-260nw-1054752296.jpg");
+background-repeat: none;
+background-size: cover;
+
+}
+
+.createbanners{
+    background-image: url("https://image.slidesdocs.com/responsive-images/background/food-vegetable-border-powerpoint-background_416604fba8__960_540.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
