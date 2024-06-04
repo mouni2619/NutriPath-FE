@@ -1,0 +1,1 @@
+NutriPath is a comprehensive web application focused on promoting better health and nutrition management. It empowers users to track their daily food intake, monitor nutritional content, and receive personalized diet suggestions. The app features robust user registration and meal creation functionalities, alongside tools for nutritional tracking
